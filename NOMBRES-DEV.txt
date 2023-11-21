@@ -4,4 +4,8 @@ Guido Rann
 
 Julieta Pilili
 
+<<<<<<< HEAD
 Mathias Reid
+=======
+Santiago Paguaga
+>>>>>>> ff958ab8b220876d0f37155bba548707410e924d
