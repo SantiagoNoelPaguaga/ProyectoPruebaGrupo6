@@ -2,6 +2,13 @@ Samir Elias
 
 Guido Rann
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Julieta Pilili
+=======
+leon
+>>>>>>> Leon
+=======
 Julieta Pilili
 
 <<<<<<< HEAD
@@ -13,3 +20,4 @@ Karen Allois
 =======
 Santiago Paguaga
 >>>>>>> ff958ab8b220876d0f37155bba548707410e924d
+>>>>>>> 24929135ad72cae845a92ab535e28c7fabcdf145
