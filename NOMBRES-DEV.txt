@@ -2,16 +2,33 @@ Samir Elias
 
 Guido Rann
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Julieta Pilili
+=======
+leon
+>>>>>>> Leon
+=======
 Julieta Pilili
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Mathias Reid
+=======
+>>>>>>> e70908abf34bd7a2394cc4595dcd6ba9fed368ae
 Karen Allois
+>>>>>>> 24929135ad72cae845a92ab535e28c7fabcdf145
 =======
 Santiago Paguaga
 >>>>>>> ff958ab8b220876d0f37155bba548707410e924d
+<<<<<<< HEAD
 =======
 Santiago Paguaga
 
 Elizabeth Sanchez
 >>>>>>> Eli
+=======
+>>>>>>> 24929135ad72cae845a92ab535e28c7fabcdf145
+>>>>>>> e70908abf34bd7a2394cc4595dcd6ba9fed368ae
